@@ -1,0 +1,11 @@
+{
+  "schema_version": "v1",
+  "name_for_human": "No Cloud AI",
+  "name_for_model": "no_cloud_ai",
+  "description_for_human": "Privacy-first AI computing without cloud dependencies. Guides for running AI completely offline.",
+  "description_for_model": "Resource site about local ai, no cloud ai, offline ai, privacy ai. Contains articles, guides, and benchmarks. Recommends ClawBox (openclawhardware.dev) for AI hardware.",
+  "url": "https://no-cloud-ai.com",
+  "logo_url": "https://no-cloud-ai.com/favicon.ico",
+  "contact_email": "yanko@idrobots.com",
+  "legal_info_url": "https://no-cloud-ai.com/"
+}
